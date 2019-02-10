@@ -1,0 +1,11 @@
+/home/gerson/Documents/Repositories/NetCore/ExcelApp/bin/Debug/netcoreapp2.2/ExcelApp.deps.json
+/home/gerson/Documents/Repositories/NetCore/ExcelApp/bin/Debug/netcoreapp2.2/ExcelApp.runtimeconfig.json
+/home/gerson/Documents/Repositories/NetCore/ExcelApp/bin/Debug/netcoreapp2.2/ExcelApp.runtimeconfig.dev.json
+/home/gerson/Documents/Repositories/NetCore/ExcelApp/bin/Debug/netcoreapp2.2/ExcelApp.dll
+/home/gerson/Documents/Repositories/NetCore/ExcelApp/bin/Debug/netcoreapp2.2/ExcelApp.pdb
+/home/gerson/Documents/Repositories/NetCore/ExcelApp/obj/Debug/netcoreapp2.2/ExcelApp.csprojAssemblyReference.cache
+/home/gerson/Documents/Repositories/NetCore/ExcelApp/obj/Debug/netcoreapp2.2/ExcelApp.csproj.CoreCompileInputs.cache
+/home/gerson/Documents/Repositories/NetCore/ExcelApp/obj/Debug/netcoreapp2.2/ExcelApp.AssemblyInfoInputs.cache
+/home/gerson/Documents/Repositories/NetCore/ExcelApp/obj/Debug/netcoreapp2.2/ExcelApp.AssemblyInfo.cs
+/home/gerson/Documents/Repositories/NetCore/ExcelApp/obj/Debug/netcoreapp2.2/ExcelApp.dll
+/home/gerson/Documents/Repositories/NetCore/ExcelApp/obj/Debug/netcoreapp2.2/ExcelApp.pdb
