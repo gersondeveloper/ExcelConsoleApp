@@ -686,23 +686,23 @@
     ]
   },
   "packageFolders": {
-    "/home/gerson/.nuget/packages/": {},
-    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\gerson.cardoso.filho\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/gerson/Documents/Repositories/NetCore/ExcelApp/ExcelApp.csproj",
+      "projectUniqueName": "C:\\repositories\\DotNet\\ExcelConsoleApp\\ExcelApp.csproj",
       "projectName": "ExcelApp",
-      "projectPath": "/home/gerson/Documents/Repositories/NetCore/ExcelApp/ExcelApp.csproj",
-      "packagesPath": "/home/gerson/.nuget/packages/",
-      "outputPath": "/home/gerson/Documents/Repositories/NetCore/ExcelApp/obj/",
+      "projectPath": "C:\\repositories\\DotNet\\ExcelConsoleApp\\ExcelApp.csproj",
+      "packagesPath": "C:\\Users\\gerson.cardoso.filho\\.nuget\\packages\\",
+      "outputPath": "C:\\repositories\\DotNet\\ExcelConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/home/gerson/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\gerson.cardoso.filho\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"

@@ -9,3 +9,14 @@
 /home/gerson/Documents/Repositories/NetCore/ExcelApp/obj/Debug/netcoreapp2.2/ExcelApp.AssemblyInfo.cs
 /home/gerson/Documents/Repositories/NetCore/ExcelApp/obj/Debug/netcoreapp2.2/ExcelApp.dll
 /home/gerson/Documents/Repositories/NetCore/ExcelApp/obj/Debug/netcoreapp2.2/ExcelApp.pdb
+C:\repositories\DotNet\ExcelConsoleApp\bin\Debug\netcoreapp2.2\ExcelApp.deps.json
+C:\repositories\DotNet\ExcelConsoleApp\bin\Debug\netcoreapp2.2\ExcelApp.runtimeconfig.json
+C:\repositories\DotNet\ExcelConsoleApp\bin\Debug\netcoreapp2.2\ExcelApp.runtimeconfig.dev.json
+C:\repositories\DotNet\ExcelConsoleApp\bin\Debug\netcoreapp2.2\ExcelApp.dll
+C:\repositories\DotNet\ExcelConsoleApp\bin\Debug\netcoreapp2.2\ExcelApp.pdb
+C:\repositories\DotNet\ExcelConsoleApp\obj\Debug\netcoreapp2.2\ExcelApp.csprojAssemblyReference.cache
+C:\repositories\DotNet\ExcelConsoleApp\obj\Debug\netcoreapp2.2\ExcelApp.csproj.CoreCompileInputs.cache
+C:\repositories\DotNet\ExcelConsoleApp\obj\Debug\netcoreapp2.2\ExcelApp.AssemblyInfoInputs.cache
+C:\repositories\DotNet\ExcelConsoleApp\obj\Debug\netcoreapp2.2\ExcelApp.AssemblyInfo.cs
+C:\repositories\DotNet\ExcelConsoleApp\obj\Debug\netcoreapp2.2\ExcelApp.dll
+C:\repositories\DotNet\ExcelConsoleApp\obj\Debug\netcoreapp2.2\ExcelApp.pdb
