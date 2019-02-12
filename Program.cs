@@ -13,7 +13,7 @@ namespace ExcelApp
         static void Main(string[] args)
         {
             List<Produto> produtosBase = File
-                                        .ReadAllLines(@"C:\\repositories\\DotNet\\ExcelConsoleApp//dtBase.csv")
+                                        .ReadAllLines(@"C:\\repositories\\DotNet\\ExcelConsoleApp//dtBase1.csv")
                                         .Skip(1)
                                         .Select( v => Produto.FromCsv(v))
                                         .ToList();
@@ -23,7 +23,7 @@ namespace ExcelApp
             
 
             List<Produto> produtosMapa = File
-                                        .ReadAllLines(@"C:\\repositories\\DotNet\\ExcelConsoleApp//dtMapa.csv")
+                                        .ReadAllLines(@"C:\\repositories\\DotNet\\ExcelConsoleApp//dtMapa1.csv")
                                         .Skip(1)
                                         .Select( v => Produto.FromCsv(v))
                                         .ToList();
@@ -48,7 +48,8 @@ namespace ExcelApp
 
 
             var produtosDictionary = Produto.CreateDictionary(produtosMapa);
-            var novosProdutos = Produto.ComparaArquivos(produtosBase,produtosDictionary);            
+            var novosProdutos = Produto.ComparaArquivos(produtosBase,produtosDictionary);
+            Produto.SaveCSV(novosProdutos);            
         }
     }
 }

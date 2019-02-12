@@ -73,7 +73,7 @@ namespace ExcelApp.Model
 
         public static void SaveCSV (List<Produto> novosProdutos)
         {
-            using (var newFile = File.CreateText(@"C:\\repositories\\DotNet\\ExcelConsoleApp\\testeNewProdutos.csv"))
+            using (var newFile = File.CreateText(@"C:\\repositories\\DotNet\\ExcelConsoleApp\\testeNewProdutos1.csv"))
             {
                 foreach (var produto in novosProdutos)
                 {
@@ -119,8 +119,9 @@ namespace ExcelApp.Model
                 if (keyValuePair.Value.CodigoOfertaVozComSVAComLDComVCFidel.Contains(oldProduto.CodigoOfertaVozComSVAComLDComVCFidel))      
                 {
                     newProduto = keyValuePair.Value;
+                    return newProduto;
                 }
-                return newProduto;
+                
             }
             return null;
         }
